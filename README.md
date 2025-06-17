@@ -41,7 +41,7 @@ Sistema completo de gestión para salones de billar desarrollado con **React** +
 
 ### 1. Clonar el repositorio
 ```bash
-git clone https://github.com/fernandoapple2002/BillarPro.git
+git clone https://github.com/FernandoGsm2002/BillarPro.git
 cd BillarPro
 ```
 
@@ -113,8 +113,8 @@ Este proyecto está bajo la Licencia MIT - ver el archivo [LICENSE](LICENSE) par
 
 ## 👨‍💻 Autor
 
-**Fernando** - [@fernandoapple2002](https://github.com/fernandoapple2002)
+**Fernando** - [@FernandoGsm2002](https://github.com/FernandoGsm2002)
 
 ---
 
-⭐ ¡Dale una estrella al proyecto si te ha sido útil! 
+⭐ ¡Dale una estrella al proyecto si te ha sido útil!
